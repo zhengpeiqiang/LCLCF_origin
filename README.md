@@ -1,11 +1,20 @@
-## <center>![avatar](https://portrait.gitee.com/uploads/avatars/namespace/2645/7936029_no_anyone_care_1623389921.png!avatar100)</center>
+<div style="text-align: center;">
+<img alt="" src="https://raw.githubusercontent.com/zhengpeiqiang/LCLCF_origin/master/LCLCF.png" style="width:100px;height:100px;margin: 0 auto;" />
+</div>
+
 # <center>LCLCF</center>
 
-# LCLCF_origin
+### organization LCLCF introduction
 
-organization lclcf source project in china
+The purpose of our organization is to hide in the corner and do something great importance , I will take the initiative to contact you , Committed to helping people who have failed, do not deny them
 
-anyone who wants to join our organization , to become an informal member , only need to introduce the logo of the organization ↓↓↓
+### how to join us
+
+Anyone who wants to join our organization , become an member , only need to introduce the text in readme.md ↓↓↓
 
 ```
-## ![avatar](https://portrait.gitee.com/uploads/avatars/namespace/2645/7936029_no_anyone_care_1623389921.png!avatar60) L C L C F
+<img alt="" src="https://raw.githubusercontent.com/zhengpeiqiang/LCLCF_origin/master/LCLCF.png" style="width:60px;height:60px;margin: 0 auto;" /> **LCLCF**
+```
+
+#### Contributors
+
